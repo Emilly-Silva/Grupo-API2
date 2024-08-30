@@ -31,14 +31,14 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 
  
 # Projeto (API) 
-Este projeto tem como objetivo mapear potenciais cargas para movimentação no Aeroporto de SJK (Aeroporto Internacional de São José dos Campos) com base em dados de importações e exportações de municípios da RMVALE e LITORAL NORTE descrito pelo site da Comex Stat. 
+
 
 
  
 # Sobre a TRADELOG
 
-* Missão: Transformar dados em insights poderosos para otimizar as operações no modal aéreo, fornecendo soluções de consultoria de análise de dados que impulsionem a eficiência, segurança e rentabilidade de nossos clientes.
-* Visão: Ser a principal parceira estratégica na análise de dados para o setor de transporte aéreo, reconhecida pela qualidade excepcional de nossos serviços, pela inovação contínua e pelo impacto positivo nas operações de nossos clientes.
+* Missão: 
+* Visão: 
 * Valores: Excelência analítica, confiança e integridade, inovação constante, colaboração e parceria, foco no cliente.
 
 </div>
@@ -50,11 +50,10 @@ Este projeto tem como objetivo mapear potenciais cargas para movimentação no A
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Êmilly Vitória         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/êmilly-vitória-0387b82b4) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Emilly-Silva)              |
-| Scrum Master  | Ingrid Rosa |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-rosa-6a564a18a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ingdrosa)     |
-| Team Member   | Ana Carolina            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-ara%C3%BAjo-9202a92ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anaarauju)        |
+| Scrum Master  | Ana Carolina |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-ara%C3%BAjo-9202a92ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anaarauju)     |
 |  Team Member  | Italo Victor                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/italo-victor-287b25265/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/italovsss)        |
-|  Team Member  | Kaick Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaick-silva-418869230/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ka1ck)   |
-|  Team Member  | Lucas Braga       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-4542701b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMeloLogistic)          |
+|  Team Member  | Julio Cesar                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaick-silva-418869230/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ka1ck)   |
+|  Team Member  | Leonardo       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-4542701b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMeloLogistic)          |
 |  Team Member  | Vinícius Leite   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-leite-4792b02ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vinileitelog)          |
 
 
@@ -77,23 +76,24 @@ O dashboard resultante não apenas fornecerá uma visão geral dos modais mais u
 
  ### Tecnologias Específicas/Apoio
  > Teams
+> Slack
   
  ### Tecnologias da Informação
  > Jira Software,
 > GitHub,
-> Slack,
-> Power Bi
+> Python,
+> Power Bi,
 > Office
 
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | concluido|        | 
-|01 | 15/04/2024 | concluido| [Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%21129&authkey=!AKmqcoLLeY09P0k&em=2) | 
-|02|  06/05/2024| concluído |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 
-|03| 27/05/2024 | concluído |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 
-|04| 17/06/2024 | concluído |[Ver Relatório](https://github.com/user-attachments/files/15778554/relatorio.4.Sprint.-.API.-.1.sem.log.-.manha-1.docx)  | 
+|Kick Off | 11/03/2024 | a ser feito |        | 
+|01 | //2024 | a ser feito | [Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%21129&authkey=!AKmqcoLLeY09P0k&em=2) | 
+|02|  //2024| a ser feito |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 
+|03| //2024 | a ser feito |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 
+|04| //2024 | a ser feito |[Ver Relatório](https://github.com/user-attachments/files/15778554/relatorio.4.Sprint.-.API.-.1.sem.log.-.manha-1.docx)  | 
 |Feira de Soluções|27/06/2024 | | 
 
 ## Cronograma
@@ -112,17 +112,17 @@ Requisitos funcionais
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Power BI / Jira / Canvas
+- Power BI / Jira / Canvas / Python
   
 # Backlog do produto
 
-- [x] Mapear potenciais cargas para movimentação no aeroporto de SJK com base em dados de importações e exportações de municípios da RMvale e Litoral norte;
-- [x] Pesquisar sobe impostos de movimentação de cargas modal aereo no brasil (interestadual e imposto de entrada e saida);
-- [x] Demonstrar qual a contribuição que o aumento da movimentação de carga pode trazer para a região definida;
-- [x] Pesquisar sobre tipos de avioes de carga e capacidade;
-- [x] Demonstrar potencial de movimentação de carga interna;
-- [x] Desenvolver Dashboard no power BI;
-- [x] Dashboard de probabilidades;
+- [ ] ...
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+- [ ] 
+- [ ] 
 
 </div>
 
@@ -132,39 +132,39 @@ Requisitos não funcionais
 
 
 ## Sprint 1
-- [x] Backlog do produto;
-- [x] Github estruturado e com link disponibilizado;
-- [x] Jira Software estruturado;
-- [x] Atribuições das atividades da Sprint 2;
-- [x] Fazer relatório técnico da sprint 1;
-- [x] Workshop de Power BI para nivelamento da equipe com a ferramenta;
+- [ ] Backlog do produto;
+- [ ] Github estruturado e com link disponibilizado;
+- [ ] Jira Software estruturado;
+- [ ] Atribuições das atividades da Sprint 2;
+- [ ] Fazer relatório técnico da sprint 1;
+
 
 ## Sprint 2
-- [x] Teste do dashboard deseonvolvido;
-- [x] Entrega relatório técnico da sprint 2;
-- [x] Estruturar funções do power BI;
+- [ ] ...
+- [ ] 
+- [ ] 
       
 ## Sprint 3
-- [x] Validar quociente VF_fob / KG liquido;
-- [x] Ajuste de formação do dash de tela;
-- [x] Apresentação do BI 95% concluida;
-- [x] Entrega relatório técnico da sprint 3;
+- [ ] ...
+- [ ] 
+- [ ] 
+- [ ] 
       
 ## Sprint 4
-- [x] Apresentação na feira de soluções;
-- [x] Alinhamento com a equipe de como será realizada a apresentação para os visitantes da feira;
-- [x] Entrega relatório técnico da sprint 4;
-- [x] Corrigir erros e aperfeiçoar o dashboard;
+- [ ] ...
+- [ ]
+- [ ] 
+- [ ] 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Sprint | Status | Cliente | Professores |
 |------|------|-------| ----------- |
-|01| concluído| [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%21135&authkey=!AKA0yDcOb2Dartc&em=2) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
-|02| concluído|[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211141&authkey=!ABab6Y07Jh3_9_c&em=2)
-|03| concluído|[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211154&authkey=!AOeCRX9yx5qRFqQ&em=2) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
-|04| concluído |[Ver Apresentação](https://github.com/user-attachments/files/15865318/Modelo_Feira_Solucoes-2.pptx) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
-|Feira de Soluções| concluído |[Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx) | [Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx)
+|01| pendente | [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%21135&authkey=!AKA0yDcOb2Dartc&em=2) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
+|02| pendente |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211141&authkey=!ABab6Y07Jh3_9_c&em=2)
+|03| pendente |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211154&authkey=!AOeCRX9yx5qRFqQ&em=2) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
+|04| pendente |[Ver Apresentação](https://github.com/user-attachments/files/15865318/Modelo_Feira_Solucoes-2.pptx) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
+|Feira de Soluções| pendente |[Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx) | [Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx)
 
 # Competências desenvolvidas
 
