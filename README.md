@@ -8,7 +8,7 @@
 </div>
 </span>
 
-# Aprendizado por Projeto Integrado (API)
+# Aprendizado por Projeto Integrado (API) - EMTU
 A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimentos e habilidades ao trabalhar em projetos práticos que abrangem diversas áreas de aprendizagem. Esses projetos geralmente são interdisciplinares e podem envolver a aplicação de conhecimentos de diversas disciplinas para resolver problemas do mundo real.
 
 
@@ -37,8 +37,8 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
  
 # Sobre a TRADELOG
 
-* Missão: 
-* Visão: 
+* Missão: Nossa missão é proporcionar soluções rodoviárias confiáveis e personalizadas que atendam às necessidades logísticas de nossos clientes no Vale do Paraíba e Litoral Norte. Com foco na eficiência e no atendimento ao cliente, buscamos simplificar o transporte de cargas, garantindo segurança e pontualidade em cada entrega.
+* Visão: Ser reconhecida como a escolha preferida em soluções logísticas rodoviárias na nossa região, destacando-nos pela qualidade do serviço e pela proximidade com nossos clientes. 
 * Valores: Excelência analítica, confiança e integridade, inovação constante, colaboração e parceria, foco no cliente.
 
 </div>
@@ -58,23 +58,23 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 
 
 # Objetivo do Projeto 
+* Atender ao problema proposto;
 * Centralizar os trabalhos e projeto;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas;
-* Atender ao problema proposto.
+* Desenvolver habilidades técnicas.
 
 # Justificativa do Projeto
-Ao criar relacionamentos entre diferentes conjuntos de dados, é possível fornecer uma visão abrangente e detalhada do panorama logístico do país. Isso permitirá aos usuários explorar e compreender melhor as dinâmicas dos modais de transporte, identificar tendências e tomar decisões com base nas informações apresentadas.
+Ao criar relacionamentos entre diferentes conjuntos de dados, é possível fornecer uma visão abrangente e detalhada do panorama logístico da região, e seus reais problemas. Isso permitirá aos usuários explorar e compreender melhor as dinâmicas dos modais de transporte, identificar tendências e tomar decisões com base nas informações apresentadas.
 
 # Resultados Esperados
-O dashboard resultante não apenas fornecerá uma visão geral dos modais mais utilizados, mas também permitirá uma análise aprofundada como, custos, análise mensal dos resultados das movimentações de cargas e volumes de carga. Além disso, a representação geográfica das cargas permitirá visualizar de forma intuitiva as rotas e os hubs logísticos mais críticos no Brasil. Sendo assim, o projeto visa capacitar profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis. O Power BI servirá como uma plataforma poderosa para transformar dados em insights valiosos, permitindo que as partes interessadas naveguem no complexo panorama da logística brasileira de maneira eficaz e eficiente.
+O dashboard resultante não apenas fornecerá uma visão geral do modal e seu foco no problema, mas também permitirá uma análise aprofundada como, custos, análise mensal dos resultados das movimentações de cargas e volumes de carga. Além disso, a representação geográfica das cargas (pessoas) permitirá visualizar de forma intuitiva as rotas e os hubs logísticos mais críticos no Brasil. Sendo assim, o projeto visa capacitar profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis. O Power BI servirá como uma plataforma poderosa para transformar dados em insights valiosos, permitindo que as partes interessadas naveguem no complexo panorama da logística brasileira de maneira eficaz e eficiente.
 
 # Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Teams
+ > Teams,
 > Outlook
 
   
