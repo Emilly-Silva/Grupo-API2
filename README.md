@@ -30,7 +30,7 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 
 
  
-# Projeto (API) 
+# Projeto (API - EMTU) 
 
 
 
@@ -50,10 +50,9 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Êmilly Vitória         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/êmilly-vitória-0387b82b4) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Emilly-Silva)              |
-| Scrum Master  | Ana Carolina |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-ara%C3%BAjo-9202a92ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anaarauju)     |
-|  Team Member  | Italo Victor                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/italo-victor-287b25265/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/italovsss)        |
+|  Scrum Master  | Italo Victor                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/italo-victor-287b25265/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/italovsss)        |
 |  Team Member  | Julio Cesar                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaick-silva-418869230/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SouzaPereira1982)   |
-|  Team Member  | Leonardo       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-4542701b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMeloLogistic)          |
+|  Team Member  | Leonardo       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-4542701b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardowso)          |
 |  Team Member  | Vinícius Leite   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-leite-4792b02ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vinileitelog)          |
 
 
@@ -87,14 +86,13 @@ O dashboard resultante não apenas fornecerá uma visão geral dos modais mais u
 
 # Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 11/03/2024 | a ser feito |        | 
-|01 | //2024 | a ser feito | [Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%21129&authkey=!AKmqcoLLeY09P0k&em=2) | 
-|02|  //2024| a ser feito |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 
-|03| //2024 | a ser feito |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 
-|04| //2024 | a ser feito |[Ver Relatório](https://github.com/user-attachments/files/15778554/relatorio.4.Sprint.-.API.-.1.sem.log.-.manha-1.docx)  | 
-|Feira de Soluções|27/06/2024 | | 
+Sprint | Previsão | Status| Histórico| Apresentação EMTU
+|------|--------|------|--------|--------|
+|Kick Off | 16/09/2024 | concluído |        | 
+|01 | 09/10/2024 | a ser feito | [Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%21129&authkey=!AKmqcoLLeY09P0k&em=2) | 10/10/2024
+|02| 06/11/2024| a ser feito |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 07/11/2024
+|03| 27/11/2024 | a ser feito |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 28/11/2024
+|Feira de Soluções| 12/12/2024 | a ser feito | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
