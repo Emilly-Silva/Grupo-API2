@@ -1,6 +1,6 @@
 <span align="center"> 
 
-##  Somos a LOGSMART!
+##  Somos a LogSmart!
 
 
 <div align="center">
