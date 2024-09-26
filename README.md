@@ -82,7 +82,6 @@ O dashboard resultante não apenas fornecerá uma visão geral do modal e seu fo
  ### Tecnologias da Informação
  > Jira Software,
 > GitHub,
-> Python,
 > Power Bi,
 > Office,
 > HTML
@@ -113,7 +112,7 @@ Requisitos funcionais
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Power BI / Jira / Canvas / Python
+- Power BI / Jira / Canvas 
   
 # Backlog do produto
 
