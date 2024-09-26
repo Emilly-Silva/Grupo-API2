@@ -1,6 +1,6 @@
 <span align="center"> 
 
-##  Somos a TRADELOG! 
+##  Somos a LOGISMART!
 
 
 <div align="center">
