@@ -84,7 +84,8 @@ O dashboard resultante não apenas fornecerá uma visão geral do modal e seu fo
 > GitHub,
 > Python,
 > Power Bi,
-> Office
+> Office,
+> HTML
 
 # Sprints
 
