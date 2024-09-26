@@ -31,11 +31,12 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 
  
 # Projeto (API - EMTU) 
-
+Este projeto tem como objetivo repensar e criar soluções para a melhoria na gestão do transporte público, garantindo horários mais precisos, redução de atrasos e racionalização operacional. Com investimentos em tecnologia para monitoramento e controle de frota, permitindo uma melhor alocação de recursos e redução de congestionamentos. 
+Tudo isso em conjunto com a famosa Empresa Metropolitana de Transportes Urbanos de São Paulo (EMTU/SP), que realizam a fiscalização, o planejamento e o controle de processos rodoviários para o público. 
 
 
  
-# Sobre a TRADELOG
+# Sobre a LogSmart
 
 * Missão: Nossa missão é proporcionar soluções rodoviárias confiáveis e personalizadas que atendam às necessidades logísticas de nossos clientes no Vale do Paraíba e Litoral Norte. Com foco na eficiência e no atendimento ao cliente, buscamos simplificar o transporte de cargas, garantindo segurança e pontualidade em cada entrega.
 * Visão: Ser reconhecida como a escolha preferida em soluções logísticas rodoviárias na nossa região, destacando-nos pela qualidade do serviço e pela proximidade com nossos clientes. 
