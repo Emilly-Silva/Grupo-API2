@@ -162,7 +162,6 @@ Sprint | Status | Cliente | Professores |
 |01| pendente | [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%21135&authkey=!AKA0yDcOb2Dartc&em=2) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
 |02| pendente |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211141&authkey=!ABab6Y07Jh3_9_c&em=2)
 |03| pendente |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211154&authkey=!AOeCRX9yx5qRFqQ&em=2) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
-|04| pendente |[Ver Apresentação](https://github.com/user-attachments/files/15865318/Modelo_Feira_Solucoes-2.pptx) | [Ver Apresentação](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)
 |Feira de Soluções| pendente |[Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx) | [Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx)
 
 # Competências desenvolvidas
