@@ -132,14 +132,14 @@ Requisitos não funcionais
 
 
 ## Sprint 1
-- [ ] Backlog do produto;
-- [ ] Github estruturado;
-- [ ] Jira Software estruturado;
-- [ ] Atribuições das atividades do 2º Sprint;
-- [ ] Fazer relatório técnico do 1º Sprint;
-- [ ] Análise das principais rotas intermunicipais da EMTU;
-- [ ] Análise do banco de dados EMTU;
-- [ ] Análise de pontos principais da EMTU.
+- [x] Backlog do produto;
+- [x] Github estruturado;
+- [x] Jira Software estruturado;
+- [x] Atribuições das atividades do 2º Sprint;
+- [x] Fazer relatório técnico do 1º Sprint;
+- [x] Análise das principais rotas intermunicipais da EMTU;
+- [x] Análise do banco de dados EMTU;
+- [x] Análise de pontos principais da EMTU.
 
 
 ## Sprint 2
