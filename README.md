@@ -159,7 +159,7 @@ Requisitos não funcionais
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Sprint | Status | Cliente | 
-|------|------|-------| ----------- |
+|------|------|-------| 
 |01| concluído | [Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%21135&authkey=!AKA0yDcOb2Dartc&em=2) |
 |02| pendente |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | 
 |03| pendente |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211154&authkey=!AOeCRX9yx5qRFqQ&em=2) |
