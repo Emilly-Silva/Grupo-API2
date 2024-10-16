@@ -156,7 +156,7 @@ Requisitos não funcionais
 - [ ] 
 - [ ] 
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Registros das Apresentações das Sprints
 
 Sprint | Status | Cliente | 
 |------|------|-------| 
