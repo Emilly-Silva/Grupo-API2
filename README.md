@@ -99,7 +99,7 @@ Sprint | Previsão | Status| Histórico| Apresentação EMTU
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://fatec-team-01log.atlassian.net/jira/software/projects/GROUP/boards/1/timeline)
+#### Cronograma das Sprints[(clique aqui)](https://fatec-team-thkrandd.atlassian.net/jira/software/projects/GA2/boards/1)
 
 # Requisitos
 
