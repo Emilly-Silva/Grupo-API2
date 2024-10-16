@@ -91,7 +91,7 @@ O dashboard resultante não apenas fornecerá uma visão geral do modal e seu fo
 Sprint | Previsão | Status| Histórico| Apresentação EMTU
 |------|--------|------|--------|------|
 |Kick Off | 16/09/2024 | concluído |        | 
-|01 | 09/10/2024 | pendente | [Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%21129&authkey=!AKmqcoLLeY09P0k&em=2) | 10/10/2024
+|01 | 09/10/2024 | concluído | [Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%21129&authkey=!AKmqcoLLeY09P0k&em=2) | 10/10/2024
 |02| 06/11/2024| pendente |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 07/11/2024
 |03| 27/11/2024 | pendente |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 28/11/2024
 |Feira de Soluções| 12/12/2024 | pendente | 
