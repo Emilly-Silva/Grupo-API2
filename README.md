@@ -116,7 +116,7 @@ Requisitos não funcionais
   
 # Backlog do produto
 
-- [ ] ...
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
@@ -133,28 +133,29 @@ Requisitos não funcionais
 
 ## Sprint 1
 - [ ] Backlog do produto;
-- [ ] Github estruturado e com link disponibilizado;
+- [ ] Github estruturado;
 - [ ] Jira Software estruturado;
-- [ ] Atribuições das atividades da Sprint 2;
-- [ ] Fazer relatório técnico da sprint 1;
+- [ ] Atribuições das atividades do 2º Sprint;
+- [ ] Fazer relatório técnico do 1º Sprint;
+- [ ] Análise das principais rotas intermunicipais da EMTU;
+- [ ] Análise do banco de dados EMTU;
+- [ ] Análise de pontos principais da EMTU.
 
 
 ## Sprint 2
-- [ ] ...
-- [ ] 
-- [ ] 
+- [ ] Filtragem de dados no Power Bi;
+- [ ] Pesquisa da confecção do site;
+- [ ] Relatório 2º Sprint;
+- [ ] Início da fabricação do mapa.
+      
       
 ## Sprint 3
-- [ ] ...
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Conclusão do projeto com base no feedback do cliente;
+- [ ] Relatório geral;
+- [ ] Atualização GitHub;
+- [ ] Preparação para a Feira de Soluções.
       
-## Sprint 4
-- [ ] ...
-- [ ]
-- [ ] 
-- [ ] 
+      
 
 # Registros das Apresentações das Sprints
 
