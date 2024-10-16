@@ -25,7 +25,7 @@ A aprendizagem por projeto integrador é um método de ensino em que os alunos a
 * [Requisitos](#requisitos)
 * [Backlog do Produto](#backlog-do-produto)
 * [Burndown](#Burndown)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-vídeos-e-apresentações-das-sprints)
+* [Registros das Apresentações das Sprints](#registros-das-apresentações-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
