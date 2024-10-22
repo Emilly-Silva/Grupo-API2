@@ -146,7 +146,7 @@ Requisitos não funcionais
 - [ ] Filtragem de dados no Power Bi;
 - [ ] Pesquisa da confecção do site;
 - [ ] Relatório 2º Sprint;
-- [ ] Início da fabricação do mapa.
+- [x] Início da fabricação do mapa.
       
       
 ## Sprint 3
