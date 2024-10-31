@@ -70,7 +70,7 @@ Tudo isso em conjunto com a famosa Empresa Metropolitana de Transportes Urbanos 
 Ao criar relacionamentos entre diferentes conjuntos de dados, é possível fornecer uma visão abrangente e detalhada do panorama logístico da região, e seus reais problemas. Isso permitirá aos usuários explorar e compreender melhor as dinâmicas dos modais de transporte, identificar tendências e tomar decisões com base nas informações apresentadas.
 
 # Resultados Esperados
-O dashboard resultante não apenas fornecerá uma visão geral do modal e seu foco no problema, mas também permitirá uma análise aprofundada como, custos, análise mensal dos resultados das movimentações de cargas e volumes de carga. Além disso, a representação geográfica das cargas (pessoas) permitirá visualizar de forma intuitiva as rotas e os hubs logísticos mais críticos no Brasil. Sendo assim, o projeto visa capacitar profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis. O Power BI servirá como uma plataforma poderosa para transformar dados em insights valiosos, permitindo que as partes interessadas naveguem no complexo panorama da logística brasileira de maneira eficaz e eficiente.
+O mapa resultante fornecerá uma visão geral do modal e seu foco no problema. Além disso, a representação geográfica do trasnporte de pessoas permitirá visualizar de forma intuitiva as rotas e os hubs logísticos mais críticos na cidade de São José dos Campos e seus vizinhos. Sendo assim, o projeto visa capacitar profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis.
 
 # Tecnologias Utilizadas
 
@@ -116,13 +116,11 @@ Requisitos não funcionais
   
 # Backlog do produto
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
-- [ ] 
-- [ ] 
+- [ ] Identificar necessidades específicas de visualização;
+- [ ] Coletar dados sobre as rotas existentes;
+- [ ] Implementar linhas e pontos de parada;
+- [ ] Desenvolver um primeiro protótipo de linha mais conhecida;
+- [ ] Analisar o ponto visual (cores, luz, ícones).
 
 </div>
 
