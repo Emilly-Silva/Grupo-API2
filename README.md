@@ -116,7 +116,7 @@ Requisitos não funcionais
   
 # Backlog do produto
 
-- [ ] Identificar necessidades específicas de visualização;
+- [x] Identificar necessidades específicas de visualização;
 - [ ] Coletar dados sobre as rotas existentes;
 - [ ] Implementar linhas e pontos de parada;
 - [ ] Desenvolver um primeiro protótipo de linha mais conhecida;
