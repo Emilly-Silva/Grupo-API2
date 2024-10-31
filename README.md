@@ -149,6 +149,7 @@ Requisitos não funcionais
       
 ## Sprint 3
 - [ ] Conclusão do projeto com base no feedback do cliente;
+- [ ] Finalização do mapa de acordo com suas linhas;
 - [ ] Relatório geral;
 - [ ] Atualização GitHub;
 - [ ] Preparação para a Feira de Soluções.
