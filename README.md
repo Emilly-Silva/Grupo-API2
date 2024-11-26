@@ -82,7 +82,6 @@ O mapa resultante fornecerá uma visão geral do modal e seu foco no problema. A
  ### Tecnologias da Informação
  > Jira Software,
 > GitHub,
-> Power Bi,
 > Office,
 > HTML
 
@@ -92,7 +91,7 @@ Sprint | Previsão | Status| Histórico| Apresentação EMTU
 |------|--------|------|--------|------|
 |Kick Off | 16/09/2024 | concluído |        | 
 |01 | 09/10/2024 | concluído | [Ver Relatório](https://github.com/user-attachments/files/17396587/relatorio_geral.docx) | 10/10/2024
-|02| 06/11/2024| pendente |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 07/11/2024
+|02| 06/11/2024| concluído |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 07/11/2024
 |03| 27/11/2024 | pendente |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 28/11/2024
 |Feira de Soluções| 12/12/2024 | pendente | 
 
@@ -117,10 +116,10 @@ Requisitos não funcionais
 # Backlog do produto
 
 - [x] Identificar necessidades específicas de visualização;
-- [ ] Coletar dados sobre as rotas existentes;
-- [ ] Implementar linhas e pontos de parada;
-- [ ] Desenvolver um primeiro protótipo de linha mais conhecida;
-- [ ] Analisar o ponto visual (cores, luz, ícones).
+- [x] Coletar dados sobre as rotas existentes;
+- [x] Implementar linhas e pontos de parada;
+- [x] Desenvolver protótipo de linha mais conhecida;
+- [x] Analisar o ponto visual (cores, luz, ícones).
 
 </div>
 
@@ -141,9 +140,7 @@ Requisitos não funcionais
 
 
 ## Sprint 2
-- [ ] Filtragem de dados no Power Bi;
-- [ ] Pesquisa da confecção do site;
-- [ ] Relatório 2º Sprint;
+- [x] Pesquisa da confecção do site;
 - [x] Início da fabricação do mapa.
       
       
