@@ -88,11 +88,11 @@ O mapa resultante fornecerá uma visão geral do modal e seu foco no problema. A
 # Sprints
 
 Sprint | Previsão | Status| 
-|------|--------|------|--------|------|
-|Kick Off | 16/09/2024 | concluído |        | 
-|01 | 09/10/2024 | concluído | [Ver Relatório](https://github.com/user-attachments/files/17396587/relatorio_geral.docx) | 10/10/2024
-|02| 06/11/2024| concluído |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 07/11/2024
-|03| 27/11/2024 | concluído |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 28/11/2024
+|------|--------|------|
+|Kick Off | 16/09/2024 | concluído |      
+|01 | 09/10/2024 | concluído |
+|02| 06/11/2024| concluído |
+|03| 27/11/2024 | concluído |
 |Feira de Soluções| 12/12/2024 | pendente | 
 
 ## Cronograma
