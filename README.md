@@ -85,14 +85,14 @@ O mapa resultante fornecerá uma visão geral do modal e seu foco no problema. A
 > Office,
 > HTML
 
-# Sprints
+# Sprints EMTU
 
 Sprint | Previsão | Status| 
 |------|--------|------|
-|Kick Off | 16/09/2024 | concluído |      
-|01 | 09/10/2024 | concluído |
-|02| 06/11/2024| concluído |
-|03| 27/11/2024 | concluído |
+|Kick Off | 17/09/2024 | concluído |      
+|01 | 10/10/2024 | concluído |
+|02| 07/11/2024| concluído |
+|03| 28/11/2024 | concluído |
 |Feira de Soluções| 12/12/2024 | pendente | 
 
 ## Cronograma
