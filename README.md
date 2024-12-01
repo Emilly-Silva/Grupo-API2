@@ -87,7 +87,7 @@ O mapa resultante fornecerá uma visão geral do modal e seu foco no problema. A
 
 # Sprints
 
-Sprint | Previsão | Status| Histórico| Apresentação EMTU
+Sprint | Previsão | Status| 
 |------|--------|------|--------|------|
 |Kick Off | 16/09/2024 | concluído |        | 
 |01 | 09/10/2024 | concluído | [Ver Relatório](https://github.com/user-attachments/files/17396587/relatorio_geral.docx) | 10/10/2024
