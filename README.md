@@ -158,8 +158,8 @@ Requisitos não funcionais
 Sprint | Status | Cliente | 
 |------|------|-------| 
 |01| concluído | [Ver Apresentação](https://github.com/user-attachments/files/17396804/Slide.API.-.Projeto.mapa.pdf) |
-|02| concluído |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | 
-|03| concluído |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211154&authkey=!AOeCRX9yx5qRFqQ&em=2) |
+|02| concluído |[Ver Apresentação](https://github.com/user-attachments/files/17969875/Slide.API.-.Projeto.mapa.pdf) | 
+|03| concluído |[Ver Apresentação](https://github.com/user-attachments/files/17969869/Copia.de.Slide.API.-.Projeto.mapa.pdf) |
 |Feira de Soluções| pendente |[Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx) |
 
 # Competências desenvolvidas
