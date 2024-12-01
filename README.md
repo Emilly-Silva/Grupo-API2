@@ -92,7 +92,7 @@ Sprint | Previsão | Status| Histórico| Apresentação EMTU
 |Kick Off | 16/09/2024 | concluído |        | 
 |01 | 09/10/2024 | concluído | [Ver Relatório](https://github.com/user-attachments/files/17396587/relatorio_geral.docx) | 10/10/2024
 |02| 06/11/2024| concluído |[Ver Relatório](https://onedrive.live.com/download?resid=451B821538BB4592%211139&authkey=!AEXtDjIMihOR3EA&em=2) | 07/11/2024
-|03| 27/11/2024 | pendente |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 28/11/2024
+|03| 27/11/2024 | concluído |[Ver Relatório](https://github.com/user-attachments/files/15740047/relatorio.3.Sprint.-.API.-.1.sem.log.-.manha-1.docx) | 28/11/2024
 |Feira de Soluções| 12/12/2024 | pendente | 
 
 ## Cronograma
@@ -145,10 +145,10 @@ Requisitos não funcionais
       
       
 ## Sprint 3
-- [ ] Conclusão do projeto com base no feedback do cliente;
-- [ ] Finalização do mapa de acordo com suas linhas;
+- [x] Conclusão do projeto com base no feedback do cliente;
+- [x] Finalização do mapa de acordo com suas linhas;
 - [ ] Relatório geral;
-- [ ] Atualização GitHub;
+- [x] Atualização GitHub;
 - [ ] Preparação para a Feira de Soluções.
       
       
@@ -158,8 +158,8 @@ Requisitos não funcionais
 Sprint | Status | Cliente | 
 |------|------|-------| 
 |01| concluído | [Ver Apresentação](https://github.com/user-attachments/files/17396804/Slide.API.-.Projeto.mapa.pdf) |
-|02| pendente |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | 
-|03| pendente |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211154&authkey=!AOeCRX9yx5qRFqQ&em=2) |
+|02| concluído |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211140&authkey=!APBX9COA3oZJF_Y&em=2) | 
+|03| concluído |[Ver Apresentação](https://onedrive.live.com/download?resid=451B821538BB4592%211154&authkey=!AOeCRX9yx5qRFqQ&em=2) |
 |Feira de Soluções| pendente |[Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx) |
 
 # Competências desenvolvidas
