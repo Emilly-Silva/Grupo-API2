@@ -93,7 +93,7 @@ Sprint | Previsão | Status|
 |01 | 10/10/2024 | concluído |
 |02| 07/11/2024| concluído |
 |03| 28/11/2024 | concluído |
-|Feira de Soluções| 12/12/2024 | pendente | 
+|Feira de Soluções| 12/12/2024 | concluído | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
@@ -149,7 +149,7 @@ Requisitos não funcionais
 - [x] Finalização do mapa de acordo com suas linhas;
 - [x] Relatório geral;
 - [x] Atualização GitHub;
-- [ ] Preparação para a Feira de Soluções.
+- [x] Preparação para a Feira de Soluções.
       
       
 
@@ -160,7 +160,7 @@ Sprint | Status | Cliente |
 |01| concluído | [Ver Apresentação](https://github.com/user-attachments/files/17396804/Slide.API.-.Projeto.mapa.pdf) |
 |02| concluído |[Ver Apresentação](https://github.com/user-attachments/files/17969875/Slide.API.-.Projeto.mapa.pdf) | 
 |03| concluído |[Ver Apresentação](https://github.com/user-attachments/files/17969869/Copia.de.Slide.API.-.Projeto.mapa.pdf) |
-|Feira de Soluções| pendente |[Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx) |
+|Feira de Soluções| concluído |[Ver Apresentação](https://github.com/user-attachments/files/15893560/Modelo_Feira_Solucoes.pptx) |
 
 # Competências desenvolvidas
 
